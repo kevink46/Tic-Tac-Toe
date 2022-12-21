@@ -41,6 +41,7 @@ To test the project: The user has to make sure he has functioning python3. He ca
 4. Player 1 can choose a field (eg. (2,2))
 5. Player 2 can choose a field which is not taken already
 6. Player 1 can choose another field and so on
+7. Play on until the game is finished
 
 We hope you will enjoy the game! :)
 
