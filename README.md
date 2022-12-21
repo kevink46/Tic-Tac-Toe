@@ -38,7 +38,7 @@ To test the project: The user has to make sure he has functioning python3. He ca
 1. Run the code
 2. Enter the name of Player 1
 3. Enter the name of Player 2
-4. Player 1 can choose a field (eg. (2,2)
+4. Player 1 can choose a field (eg. (2,2))
 5. Player 2 can choose a field which is not taken already
 6. Player 1 can choose another field and so on
 
