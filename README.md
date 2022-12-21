@@ -31,7 +31,7 @@ There are only two files in this repository, which is the code itself and this f
 
 This file is used for the project description as well as insutrctions on how to use and test the code.
 
-The file containing the code (code) also contains extensive comments for all or most of the coding lines. The comments should be read to gain deeper insight into the functioning of the code and logic used.
+The file containing the code (Code) also contains extensive comments for all or most of the coding lines. The comments should be read to gain deeper insight into the functioning of the code and logic used.
 
 To test the project: The user has to make sure he has functioning python3. He can then copy the code and enter it in there. The following steps will guide you through the game:
 
